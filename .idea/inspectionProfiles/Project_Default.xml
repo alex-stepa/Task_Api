@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="async-generator" />
+          <option value="attrs" />
+          <option value="h11" />
+          <option value="importlib_metadata" />
+          <option value="mypy_extensions" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="PySocks" />
+          <option value="python-dotenv" />
+          <option value="selenium" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="trio" />
+          <option value="trio-typing" />
+          <option value="trio-websocket" />
+          <option value="types-certifi" />
+          <option value="types-urllib3" />
+          <option value="webdriver-manager" />
+          <option value="websocket-client" />
+          <option value="wsproto" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
