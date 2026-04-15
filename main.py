@@ -6,8 +6,7 @@ app = FastAPI(title="Task API", description="Jednoduché REST API pro správu ú
 
 # Úložiště úkolů v paměti
 tasks: list[dict] = []
-next_id = 1
-
+next_id  = 1
 
 # --- Modely ---
 
